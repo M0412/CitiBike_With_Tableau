@@ -10,8 +10,6 @@ In my analysis on the New York Citi Bike program, I answered the following quest
 -  What type of rider make the most trips?
 -  What type pf bike are mostly used?
 
-![Alt text](images/story1.png)
-
 <p align="center">
   <img src="images/story1.png" alt="images" width="600"/>
 </p>
