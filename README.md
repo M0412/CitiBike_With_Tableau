@@ -1,4 +1,17 @@
 # CitiBike_With_Tableau
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+<!-- 
+Initialize the API as part of your HTML code by using the <tableau-viz> web component. 
+After linking to the API library, the following code is all you need to embed a Tableau view into your HTML pages.
+-->
+
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/shared/2BPHNQRGR?:display_count=n&:origin=viz_share_link'      
+  height='600px' width='600px' toolbar='bottom' hide-tabs>
+</tableau-viz>
+
+
 
 Here's the link to my visualization
 https://public.tableau.com/shared/2BPHNQRGR?:display_count=n&:origin=viz_share_link
